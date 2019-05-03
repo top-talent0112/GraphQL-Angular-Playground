@@ -1,5 +1,5 @@
 {
-  "name": "graphql-angular-workshop",
+  "name": "GraphQL-Angular-Playground",
   "description": "GraphQL and Angular 2 workshop",
   "scripts": {
     "server": "cd server && yarn watch",
