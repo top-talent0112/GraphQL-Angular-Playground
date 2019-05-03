@@ -8,7 +8,7 @@
     "postinstall": "(cd client && yarn) && (cd server && yarn)"
   },
   "keywords": [],
-  "author": "Dotan Simha",
+  "author": "Dream High",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dotansimha/graphql-angular-workshop/issues"
